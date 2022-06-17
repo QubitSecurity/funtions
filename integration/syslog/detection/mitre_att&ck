@@ -21,7 +21,6 @@ CEF:0|QubitSecurity|Plura|5|([[${eventName}]])[[${serviceName}]]|[[${filterName}
 |cs6|logOrigin                   | 전체 로그            |     
 
 
-
 ## 샘플로그
 ```
 Jun 16 12:45:00 211.43.190.184 plura.notice: CEF:0|QubitSecurity|Plura|5|(탐지)마이터|계정 액세스 제거 [T1531]|Linux|end=Jun 16 2022 12:28:59 cs1=계정 액세스 제거 [T1531](T1531) cs2=마이터 어택 src=- dvc=- dst=- cs6=-
