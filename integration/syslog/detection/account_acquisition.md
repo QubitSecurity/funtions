@@ -21,6 +21,7 @@ CEF:0|QubitSecurity|Plura|5|([[${eventName}]])[[${serviceName}]]|[[${filterName}
 |dst|serverName                  | 대상 시스템 이름 (에이전트)|
 |cs6|logOrigin                   | 전체 로그            |     
  
+ 
 ## 샘플로그
 ```
 Jun 16 12:45:00 211.43.190.184 plura.notice: CEF:0|QubitSecurity|Plura|5|(탐지)계정탈취|QA-크리가변-실패-POST-AND|-|end=Jun 16 2022 12:19:26 cs1=QA-크리가변-실패-POST-AND cs2=크리덴셜 스터핑(가변) cs3=Host: 172.16.12.40, Path: /wordpress/wp-login.ph1 src=0.0.0.0 dvc=- dst=- cs6=-
